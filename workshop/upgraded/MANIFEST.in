@@ -1,3 +1,5 @@
-include README.rst
-include distribute-0.6.10.tar.gz
+include setup.py
 include distribute_setup.py
+include guachi/tests/*
+include docs/*
+
